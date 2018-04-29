@@ -14,7 +14,7 @@ public class ArrayDequeSolution<Item> extends LinkedList<Item> {
         return get(i);
     }
 
-    public Item removeFirst() {
+    public Item removeFirst() 
         try {
             return super.removeFirst();
         } catch (Exception e) {
