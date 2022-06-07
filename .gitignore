@@ -5,6 +5,7 @@
 !**.json
 !.expelimicate
 !.gitignore
+**/tutorial/
 **/lecture/
 .vscode
 .class
